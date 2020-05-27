@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065608312941",
+    "firebase_url": "https://posters-a84f4.firebaseio.com",
+    "project_id": "posters-a84f4",
+    "storage_bucket": "posters-a84f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065608312941:android:0456098311162d03e72764",
+        "android_client_info": {
+          "package_name": "com.perfomatix.posters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065608312941-30u6sanb2pv7codeqvdn1g5st023419a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Ml6OUZJGfMN8srqCgx8r_OSyRMdiNt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065608312941-30u6sanb2pv7codeqvdn1g5st023419a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

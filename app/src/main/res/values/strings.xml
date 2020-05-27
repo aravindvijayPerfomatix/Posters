@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Posters</string>
+
+    <string name="no_data_found">No Data Found</string>
+    <string name="heading">Heading</string>
+    <string name="no_preview">Preview Not Available!</string>
+</resources>
