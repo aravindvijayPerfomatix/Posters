@@ -48,7 +48,7 @@
             android:paddingTop="20dp"
             android:layout_marginLeft="7dp"
             android:layout_marginRight="7dp"
-            app:spanCount="5"
+            app:spanCount="7"
             app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
