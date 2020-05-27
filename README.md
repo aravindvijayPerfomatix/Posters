@@ -8,9 +8,13 @@ A movie listing application with offline data
 Libraries Used
 --------------
 
-  [0]: https://developer.android.com/jetpack/components
-  [1]: https://developer.android.com/topic/libraries/support-library/packages#v7-appcompat
-  [2]: https://developer.android.com/kotlin/ktx
+* [Architecture][10] - A collection of libraries that help you design robust, testable, and
+  maintainable apps. Start with classes for managing your UI component lifecycle and handling data
+  persistence.
+  * [Data Binding][11] - Declaratively bind observable data to UI elements.
+  * [Lifecycles][12] - Create a UI that automatically responds to lifecycle events.
+  * [LiveData][13] - Build data objects that notify views when the underlying database changes.
+
   [10]: https://developer.android.com/jetpack/arch/
   [11]: https://developer.android.com/topic/libraries/data-binding/
   [12]: https://developer.android.com/topic/libraries/architecture/lifecycle
